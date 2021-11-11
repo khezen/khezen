@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm currently working as tech lead on infrastructure and backend technologies at [Peaks](https://www.peaks.com/).
+![githubstats](https://github-readme-stats.vercel.app/api?username=khezen)
+
 
 <!--
 **khezen/khezen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
