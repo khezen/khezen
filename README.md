@@ -1,6 +1,6 @@
 ## Hi there, I'm Guillaume 👋
 
-I'm currently working as infrastructure and backend technologies lead at [Peaks](https://www.peaks.com/).
+I'm currently responsible for technology at [Peaks](https://www.peaks.com/).
 ![githubstats](https://github-readme-stats.vercel.app/api?username=khezen&show_icons=true&count_private=true&include_all_commits=true&hide_border=true")
 
 
