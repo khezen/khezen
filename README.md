@@ -1,6 +1,6 @@
 ## Hi there, I'm Guillaume 👋
 
-I'm currently responsible for technology at [Peaks](https://www.peaks.com/).
+I'm currently responsible for product dcevelopment at [Peaks](https://www.peaks.com/).
 
 ---
 
